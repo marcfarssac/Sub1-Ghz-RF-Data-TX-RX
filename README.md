@@ -3,15 +3,25 @@
 This sub project is part of a bigger "IoT remote temperature sensors" project developed by [Marc Farssac](https://github.com/marcfarssac). It shows how to use a ultra low power Sub-1 GHz Radiofrequency Wireless (WiFi) communication between two electronic modules using a center frequency of 868.0 Mhz using the 48-MHz Arm Cortex-M3 microcontrollers to share information between two nodes.
 
 ### Youtube Video (Project summary)
+(ongoing)
 ### Youtube Video (Extended explanations)
+(ongoing)
 ### Screenshoots
+(ongoing)
 ## Background
+(ongoing)
 ## Current status
+(ongoing)
 ### Data Analysis
+(ongoing)
 ### ADC Conversion of the analog temperature sensor voltage
+(ongoing)
 ### DAC Conversion of the digital measured temperature to an analog value
+(ongoing)
 ### ADC Calibration
+(ongoing)
 ## Resources
+(ongoing)
 ## License
 Copyright 2018 Marc Farssac
 
