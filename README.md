@@ -7,7 +7,14 @@ This sub project is part of a bigger "IoT remote temperature sensors" project de
 ### Youtube Video (Extended explanations)
 (ongoing)
 ### Screenshoots
-(ongoing)
+
+#### Project configuration
+
+![20181217_112615](https://user-images.githubusercontent.com/18221570/50081793-a21afd00-01ef-11e9-91c9-06d029315268.jpg)
+
+![20181217_112639](https://user-images.githubusercontent.com/18221570/50081795-a2b39380-01ef-11e9-9b92-b9d2898bfeff.jpg)
+
+
 ## Background
 (ongoing)
 ## Current status
